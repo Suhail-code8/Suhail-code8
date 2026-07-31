@@ -8,8 +8,6 @@
 
 I am a full-stack developer based in Kerala with hands-on experience in modern web technologies. I am passionate about building scalable, high-performance applications, from responsive frontends to robust backend architectures. 
 
-Currently, I am leveraging AI-assisted development tools to optimize workflows and build complex projects like event management systems and healthcare platforms.
-
 ---
 
 ### 💻 Skills
@@ -17,5 +15,4 @@ Currently, I am leveraging AI-assisted development tools to optimize workflows a
 * **Frontend Development:** Next.js, React, TypeScript, HTML, CSS, Tailwind CSS
 * **Backend Development:** Node.js, Express.js
 * **Database:** MongoDB
-* **Tools & AI:** Cursor, Antigravity, Git, GitHub
 * **Core Competencies:** End-to-End Development, SEO Optimization, State Management, API Integration
