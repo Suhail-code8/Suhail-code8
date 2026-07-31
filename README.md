@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm Muhammad Suhail
 
-<!--
-**Suhail-code8/Suhail-code8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Sc. Mathematics | Full-Stack Web Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I am a full-stack developer based in Kerala with hands-on experience in modern web technologies. I am passionate about building scalable, high-performance applications, from responsive frontends to robust backend architectures. 
+
+Currently, I am leveraging AI-assisted development tools to optimize workflows and build complex projects like event management systems and healthcare platforms.
+
+---
+
+### 💻 Skills
+
+* **Frontend Development:** Next.js, React, TypeScript, HTML, CSS, Tailwind CSS
+* **Backend Development:** Node.js, Express.js
+* **Database:** MongoDB
+* **Tools & AI:** Cursor, Antigravity, Git, GitHub
+* **Core Competencies:** End-to-End Development, SEO Optimization, State Management, API Integration
