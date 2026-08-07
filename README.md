@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Muhammad Suhail
 
-**B.Sc. Mathematics | Full-Stack Web Developer**
+**Full-Stack Web Developer (MERN)**
 
 ---
 
