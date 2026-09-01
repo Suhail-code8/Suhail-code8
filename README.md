@@ -22,7 +22,7 @@ Building things, breaking things, understanding why they broke — and building 
 
 ---
 
-## 👋 About Me
+## 📜 About Me
 
 I'm a **Full Stack Developer** who enjoys working across the entire application — from building interfaces users interact with to designing the backend systems that make them work.
 
