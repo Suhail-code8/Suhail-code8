@@ -209,29 +209,6 @@ A collaborative platform designed around **patient requirements, donor matching 
 
 ---
 
-### 🛒 Riolabz E-Commerce REST API
-
-A production-oriented REST API built around **data integrity, hierarchical categories, transactional order processing and concurrent stock management**.
-
-**Highlights**
-
-- JWT authentication and RBAC
-- Unlimited nested category hierarchy
-- Materialized path + adjacency list design
-- Deep category filtering
-- Product search and effective-price filtering
-- MongoDB transactions
-- Atomic stock decrement
-- Concurrent checkout protection
-- Transactional stock rollback
-- Order state machine
-- Historical product snapshots
-- Admin user management
-- Swagger / OpenAPI documentation
-- Postman collection
-- Docker + MongoDB replica set
-- 160 automated tests
-
 **Stack**
 
 `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Docker` `Jest`
