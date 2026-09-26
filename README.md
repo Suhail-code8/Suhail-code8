@@ -231,7 +231,7 @@ A responsive e-commerce frontend focused on reusable React components, responsiv
 
 **Stack**
 
-`React` `Tailwind CSS` `JSON`
+`React` `Tailwind CSS` `Express` `MongoDB`
 
 <br>
 
