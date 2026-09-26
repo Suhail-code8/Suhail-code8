@@ -225,9 +225,9 @@ A collaborative platform designed around **patient requirements, donor matching 
 
 ---
 
-### 📚 LitVerse — E-Commerce Frontend
+### 📚 LitVerse — E-Commerce Website
 
-A responsive e-commerce frontend focused on reusable React components, responsive design and clean UI architecture.
+A responsive e-commerce focused on reusable React components, responsive design and clean UI architecture.
 
 **Stack**
 
